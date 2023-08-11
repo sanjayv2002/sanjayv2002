@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjayv2002" alt="sanjayv2002" /></a> </p>
 
-- 🔭 I’m currently working on [CUSTOM IDE with modular features](https://github.com/sanjayv2002/ide-1)
+- 🔭 I’m currently working on Nothing Needmore time
 
-- 🌱 I’m currently learning **R, scala**
+- 🌱 I’m currently learning **BERT**
 
 - 👨‍💻 All of my projects are available at [my site](my site)
 
