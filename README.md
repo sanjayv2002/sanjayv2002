@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjayv2002" alt="sanjayv2002" /></a> </p>
 
-- 🔭 I’m currently working on Nothing Needmore time
+- 🔭 I’m currently working on [electronics store management api](https://github.com/sanjayv2002/sanjayv2002/electronics)
 
 - 🌱 I’m currently learning **BERT**
 
